@@ -1,5 +1,8 @@
 # 🧠 AI Powered ToDoList
 
+**Demo video of working** : https://drive.google.com/file/d/1P88b1Tr_Gh8qneTtd5rpoVdnMo2r6NVR/view?usp=sharing
+
+
 > A smart productivity tool that uses AI to enhance task management and daily planning.
 
 ---
